@@ -3,14 +3,14 @@
 
 <br><br>
 Hi, I’m @ShawnDriscoll 👋 <br><br>
-Some Abouts:<br>
+Some Abouts:
 <ul>
     <li>Self-aware</li>
     <li>Detail-Oriented</li>
     <li>I can explain things in layman's terms</li>
 </ul>
 <br>
-Some Certs: 👨‍🎓 <br>
+Some Certs: 👨‍🎓
 <ul>
     <li>Got all my general educations down pat (professional student at Grossmont College the entire '80s)</li>
     <li>Got my A+ after waiting a decade to do it (just in time for the Y2K bug hysteria)</li>
@@ -23,7 +23,7 @@ I've used all the programming languages that were relevant (from 1976-2006)<br>
 I've built 1,000s of computers<br>
 I've repaired/upgraded 1,000s of computers<br>
 <br>
-Programming Languages:<br>
+Programming Languages:
 <ul>
     <li>These days, just Python (dabbled in both Classic 2.5 and 3.9+)</li>
     <li>Modules: PyDiceroll</li>
