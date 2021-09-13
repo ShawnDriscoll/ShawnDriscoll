@@ -3,7 +3,7 @@
 
 <br><br>
 Hi, I’m @ShawnDriscoll 👋 <br><br>
-Some Abouts:
+Some Abouts:<br>
 <ul>
     <li>Self-aware</li>
     <li>Detail-Oriented</li>
@@ -23,7 +23,7 @@ I've used all the programming languages that were relevant (from 1976-2006)<br>
 I've built 1,000s of computers<br>
 I've repaired/upgraded 1,000s of computers<br>
 <br>
-Programming Languages:
+Programming Languages:<br>
 <ul>
     <li>These days, just Python (dabbled in both Classic 2.5 and 3.9+)</li>
     <li>Modules: PyDiceroll</li>
