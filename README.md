@@ -9,7 +9,6 @@ Some Abouts:
     <li>Detail-Oriented</li>
     <li>I can explain things in layman's terms</li>
 </ul>
-<br>
 Some Certs:
 <ul>
     <li>Got all my general educations down pat (professional student at Grossmont College the entire '80s)</li>
