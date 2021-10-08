@@ -22,7 +22,7 @@ I've used all the programming languages that were relevant (from 1976-2006)<br>
 I've built 1,000s of computers<br>
 I've repaired/upgraded 1,000s of computers<br>
 <br>
-Programming Languages:
+Programming Languages:<br>
 <a href="https://www.python.org"><img src="images/python-powered-50x65.png" alt="Python"></a>
 <ul>
     <li>These days, just Python (dabbled in both Classic 2.5 and 3.9+)</li>
