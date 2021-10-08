@@ -20,10 +20,11 @@ Some Skills:
     <li>Been programming computers since '76</li>
     <li>I've used all the programming languages that were relevant (from 1976-2006)</li>
     <li>I've built 1,000s of computers</li>
-<li>I've repaired/upgraded 1,000s of computers</li>
+    <li>I've repaired/upgraded 1,000s of computers</li>
 </ul>
 Programming Languages:<br>
-<a href="https://www.python.org"><img src="images/python-powered-50x65.png" alt="Python"></a>
+<a href="https://www.python.org"><img src="images/python-logo.png" alt="Python"></a>
+<a href="https://www.cython.org"><img src="images/cythonlogo.png" alt="Cython"></a>
 <ul>
     <li>These days, just Python (dabbled in both Classic 2.5 and 3.9+)</li>
     <li>Modules: PyDiceroll</li>
