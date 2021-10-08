@@ -15,13 +15,13 @@ Some Certs:
     <li>Got my A+ after waiting a decade to do it (just in time for the Y2K bug hysteria)</li>
     <li>I know English, and bad English (huge 5th Element fan)</li>
 </ul>
-
-Some Skills:<br>
-Been programming computers since '76<br>
-I've used all the programming languages that were relevant (from 1976-2006)<br>
-I've built 1,000s of computers<br>
-I've repaired/upgraded 1,000s of computers<br>
-<br>
+Some Skills:
+<ul>
+    <li>Been programming computers since '76</li>
+    <li>I've used all the programming languages that were relevant (from 1976-2006)</li>
+    <li>I've built 1,000s of computers</li>
+<li>I've repaired/upgraded 1,000s of computers</li>
+</ul>
 Programming Languages:<br>
 <a href="https://www.python.org"><img src="images/python-powered-50x65.png" alt="Python"></a>
 <ul>
