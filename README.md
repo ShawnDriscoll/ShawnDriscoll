@@ -23,6 +23,7 @@ I've built 1,000s of computers<br>
 I've repaired/upgraded 1,000s of computers<br>
 <br>
 Programming Languages:
+<a href="https://www.python.org"><img src="images/python-powered-50x65.png" alt="Python"></a>
 <ul>
     <li>These days, just Python (dabbled in both Classic 2.5 and 3.9+)</li>
     <li>Modules: PyDiceroll</li>
