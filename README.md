@@ -27,6 +27,6 @@ Programming Languages:<br>
 <a href="https://cython.org"><img src="images/cythonlogo.png" alt="Cython"></a>
 <ul>
     <li>These days, just Python (dabbled in both Classic 2.5 and 3.9+)</li>
-    <li>Modules: PyDiceroll</li>
+    <li>Written Modules: PyDiceroll, mapper</li>
     <li>Huge Cython fan</li>
 </ul>
