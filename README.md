@@ -21,6 +21,7 @@ Some Skills:
     <li>I've used all the programming languages that were relevant (from 1976-2006)</li>
     <li>I've built 1,000s of computers</li>
     <li>I've repaired/upgraded 1,000s of computers</li>
+    <li>I do software quality assurance testing (aka, I'm the cleaner)</li>
 </ul>
 Programming Languages:<br>
 <a href="https://www.python.org"><img src="images/python-logo.png" alt="Python"></a>
