@@ -47,4 +47,10 @@ Some Hobbies:
         <li>modo 601</li>
         <li>Poser 6</li>
     </ul>
+    <li>Video Editing:</li>
+    <ul>
+        <li>Vegas Pro</li>
+        <li>OBS</li>
+        <li>Bandicam</li>
+    </ul>
 </ul>
