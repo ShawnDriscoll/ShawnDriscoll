@@ -31,3 +31,20 @@ Programming Languages:<br>
     <li>Modules Written: PyDiceroll, mapper</li>
     <li>Huge Cython fan</li>
 </ul>
+Some Hobbies:
+<ul>
+    <li>Huge fan of role-play gaming:</li>
+    <ul>
+        <li>Skyrim</li>
+        <li>Mongoose Traveller</li>
+        <li>Total Party Skills RPG</li>
+    </ul>
+    <li>Classic 3D modeling:</li>
+    <ul>
+        <li>Hexagon 1.21</li>
+        <li>3D-Coat 4.9</li>
+        <li>Vue 9.5 Infinite</li>
+        <li>modo 601</li>
+        <li>Poser 6</li>
+    </ul>
+</ul>
