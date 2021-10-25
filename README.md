@@ -23,7 +23,7 @@ Some Skills:
     <li>I've repaired/upgraded 1,000s of computers</li>
     <li>I do software quality assurance testing (aka, I'm the cleaner)</li>
 </ul>
-Programming Languages:<br>
+Some Programming Languages:<br>
 <a href="https://www.python.org"><img src="images/python-logo.png" alt="Python"></a>
 <a href="https://cython.org"><img src="images/cythonlogo.png" alt="Cython"></a>
 <ul>
