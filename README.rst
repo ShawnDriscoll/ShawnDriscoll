@@ -42,23 +42,16 @@ Some Hobbies:
 -------------
 
 * Huge fan of role-play gaming
-    <ul>
-        <li>Skyrim</li>
-        <li>Mongoose Traveller</li>
-        <li>Total Party Skills RPG</li>
-    </ul>
+    Skyrim
+    Mongoose Traveller
+    Total Party Skills RPG
 * Classic 3D modeling
-    <ul>
-        <li>Hexagon 1.21</li>
-        <li>3D-Coat 4.9</li>
-        <li>Vue 9.5 Infinite</li>
-        <li>modo 601</li>
-        <li>Poser 6</li>
-    </ul>
+    Hexagon 1.21
+    3D-Coat 4.9
+    Vue 9.5 Infinite
+    modo 601
+    Poser 6
 * Video Editing
-    <ul>
-        <li>Vegas Pro</li>
-        <li>OBS</li>
-        <li>Bandicam</li>
-    </ul>
-</ul>
+    Vegas Pro
+    OBS
+    Bandicam
