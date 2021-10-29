@@ -41,13 +41,13 @@ Some Programming Languages:
 Some Hobbies:
 -------------
 
-* Huge fan of role-play gaming:
+* Huge fan of role-play gaming
     <ul>
         <li>Skyrim</li>
         <li>Mongoose Traveller</li>
         <li>Total Party Skills RPG</li>
     </ul>
-* Classic 3D modeling:
+* Classic 3D modeling
     <ul>
         <li>Hexagon 1.21</li>
         <li>3D-Coat 4.9</li>
@@ -55,7 +55,7 @@ Some Hobbies:
         <li>modo 601</li>
         <li>Poser 6</li>
     </ul>
-* Video Editing:
+* Video Editing
     <ul>
         <li>Vegas Pro</li>
         <li>OBS</li>
