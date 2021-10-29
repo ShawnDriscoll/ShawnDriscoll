@@ -41,21 +41,18 @@ Some Programming Languages:
 Some Hobbies:
 -------------
 
-THis is some ``print('hello')`` code
-
 * Huge fan of role-play gaming
-
-Skyrim
-Mongoose Traveller
-Total Party Skills RPG
+	Skyrim,
+	Mongoose Traveller,
+	Total Party Skills RPG
 
 * Classic 3D modeling
-    Hexagon 1.21
-    3D-Coat 4.9
-    Vue 9.5 Infinite
-    modo 601
+    Hexagon 1.21,
+    3D-Coat 4.9,
+    Vue 9.5 Infinite,
+    modo 601,
     Poser 6
 * Video Editing
-    Vegas Pro
-    OBS
+    Vegas Pro,
+    OBS,
     Bandicam
