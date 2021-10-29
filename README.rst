@@ -40,6 +40,7 @@ Some Programming Languages:
 
 Some Hobbies:
 -------------
+
 * Huge fan of role-play gaming:
     <ul>
         <li>Skyrim</li>
