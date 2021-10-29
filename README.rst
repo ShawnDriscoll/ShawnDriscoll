@@ -19,11 +19,29 @@ Some Certs:
 Some Skills:
 ------------
 
-* Been programming computers since '76</li>
+* Been programming computers since '76
 * I've used all the programming languages that were relevant (from 1976-2006)
 * I've built 1,000s of computers
 * I've repaired/upgraded 1,000s of computers
 * I do software quality assurance testing (aka, I'm the cleaner)
+
+Some Programming Languages:
+---------------------------
+
+.. image:: images/python-logo.png
+    :target: https://www.python.org
+
+.. image:: images/cythonlogo.png
+    :target: https://cython.org
+
+
+<a href="https://www.python.org"><img src="images/python-logo.png" alt="Python"></a>
+<a href="https://cython.org"><img src="images/cythonlogo.png" alt="Cython"></a>
+<ul>
+    <li>These days, just Python for Windows Environments using PyQt5 (dabbled in both Classic 2.5 and 3.9+)</li>
+    <li>Modules Written: PyDiceroll, mapper</li>
+    <li>Huge Cython fan</li>
+</ul>
 
 .. image:: docs/source/python_v3_9_7_tag.png
     :target: https://www.python.org/downloads/release/python-397/
