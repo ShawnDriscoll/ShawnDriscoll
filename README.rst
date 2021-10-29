@@ -9,6 +9,21 @@ Some Abouts:
 * Detail-Oriented
 * I can explain things in layman's terms
 
+Some Certs:
+-----------
+
+* Got all my general educations down pat (professional student at Grossmont College the entire '80s)
+* Got my A+ after waiting a decade to do it (just in time for the Y2K bug hysteria)
+* I know English, and bad English (huge 5th Element fan)
+
+Some Skills:
+------------
+
+* Been programming computers since '76</li>
+* I've used all the programming languages that were relevant (from 1976-2006)
+* I've built 1,000s of computers
+* I've repaired/upgraded 1,000s of computers
+* I do software quality assurance testing (aka, I'm the cleaner)
 
 .. image:: docs/source/python_v3_9_7_tag.png
     :target: https://www.python.org/downloads/release/python-397/
