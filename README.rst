@@ -34,6 +34,7 @@ Some Programming Languages:
 .. image:: images/cythonlogo.png
     :target: https://cython.org
 
+
 * These days, just Python for Windows Environments using PyQt5 (dabbled in both Classic 2.5 and 3.9+)
 * Modules Written: PyDiceroll, mapper
 * Huge Cython fan
