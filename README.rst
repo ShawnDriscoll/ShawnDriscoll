@@ -42,9 +42,11 @@ Some Hobbies:
 -------------
 
 * Huge fan of role-play gaming
-    Skyrim
-    Mongoose Traveller
-    Total Party Skills RPG
+
+Skyrim
+Mongoose Traveller
+Total Party Skills RPG
+
 * Classic 3D modeling
     Hexagon 1.21
     3D-Coat 4.9
