@@ -1,47 +1,99 @@
 
-![Shawn Driscoll GitHub Stats]
-https://github-readme-stats.vercel.app/api?username=ShawnDriscoll&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=dark
+**Hi, I’m @ShawnDriscoll**
+==========================
 
-.. image:: docs/source/python_v3_9_5_tag.png
-    :target: https://www.python.org/downloads/release/python-395/
+Some Abouts:
+------------
+
+* Self-aware
+* Detail-Oriented
+* I can explain things in layman's terms
+
+
+.. image:: docs/source/python_v3_9_7_tag.png
+    :target: https://www.python.org/downloads/release/python-397/
     
-.. image:: docs/source/release_v3_3_0b_tag.png
-    :target: https://readthedocs.org/projects/pydiceroll/downloads/pdf/latest
+.. image:: docs/source/release_v3_2_0b_tag.png
+    :target: https://readthedocs.org/projects/pytravcalcmanual/downloads/pdf/latest
     
-.. image:: https://readthedocs.org/projects/pydiceroll/badge/?version=latest
-    :target: http://pydiceroll.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/pytravcalcmanual/badge/?version=latest
+    :target: http://pytravcalcmanual.readthedocs.io/en/latest/?badge=latest
     :alt: Doc Status
 
-.. image:: https://img.shields.io/github/stars/ShawnDriscoll/pydiceroll.svg
-	:target: https://github.com/ShawnDriscoll/pydiceroll/stargazers
 
 
-.. figure:: docs/source/pydiceroll_manual_cover_pdf_art.png
+**PyTravCalc 3.2.0b**
+=====================
 
-**PyDiceroll 3.3 for Python 3.9+**
-==================================
+.. figure:: images/pytravcalc_manual_cover_art.png
 
-**PyDiceroll 3.3** is a Python 3.9+ module that your game code calls to make dice rolls.
 
-Read the **PyDiceroll Operations Manual** at http://pydiceroll.readthedocs.io
+**PyTravCalc 3.2.0b** is a Windows program for calculating die rolls for Mongoose Traveller 2nd Edition.
 
-Download the PDF from https://readthedocs.org/projects/pydiceroll/downloads/pdf/latest
 
-or the EPUB from https://readthedocs.org/projects/pydiceroll/downloads/epub/latest
+Notes
+-----
+
+**PyTravCalc 3.2.0b** is being tested on Windows 10.
+
+New in this release is that it can make dice rolls at a CMD prompt.
+
+Read the **PyTravCalc Manual** at http://pytravcalcmanual.readthedocs.io
+
+Download the PDF from https://readthedocs.org/projects/pytravcalcmanual/downloads/pdf/latest
+
+or the EPUB from https://readthedocs.org/projects/pytravcalcmanual/downloads/epub/latest
+
+
+What's New?
+-----------
 
 .. image:: docs/source/video.png
-    :target: https://www.youtube.com/watch?v=xuyfLJbdDso
+    :target: https://www.youtube.com/watch?v=AlhrqA2jdgs
+
+Requirements
+------------
+
+* **Windows 10**
+
+   It might not work in OSX or Linux.
+
+* **Python 3.9.7**
+   
+   **PyTravCalc** was written using the C implementation of Python
+   version 3.9.7. Also known as CPython.
+
+* **colorama 0.4.4**
+
+   Because CMD may have some colored text messages for debugging invalid die rolls.
+   
+* **PyQt5 5.15.4**
+
+   PyQt5 is the framework used for displaying the Window GUI and buttons, etc.
+
+* **numpy 1.20.2**
+
+   For building arrays.
+
+* **matplotlib 3.4.2**
+
+   For graphics plotting.
+   
 
 Warning
 -------
 
-**PyDiceroll** will not work with **Python 2.7-**.
+**PyTravCalc** will not work with **Python 2.7-**.
+
+
+Not Using Python?
+-----------------
+
+You can always run the .EXE version for Windows 10 if you don't have the Python language installed.
+
+
+The Traveller game in all forms is owned by Far Future Enterprises. Copyright 1977 - 2022 Far Future Enterprises. Traveller is a registered trademark of Far Future Enterprises.
 
 Contact
 -------
 Questions? Please contact shawndriscoll@hotmail.com
-
-The Traveller game in all forms is owned by Far
-Future Enterprises. Copyright 1977 - 2022 Far Future
-Enterprises. Traveller is a registered trademark of Far
-Future Enterprises.
