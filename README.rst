@@ -41,6 +41,8 @@ Some Programming Languages:
 Some Hobbies:
 -------------
 
+THis is some `print('hello')` code
+
 * Huge fan of role-play gaming
 
 Skyrim
