@@ -46,7 +46,7 @@ Some Hobbies:
 
   * Skyrim
 
-  * Mongoose Traveller
+  * Mongoose Traveller 2016
 
   * Total Party Skills RPG
 
@@ -54,7 +54,7 @@ Some Hobbies:
 
   * Hexagon 1.21
 
-  * 3D-Coat 4.9
+  * 3D-Coat 2022
 
   * Vue 9.5 Infinite
 
