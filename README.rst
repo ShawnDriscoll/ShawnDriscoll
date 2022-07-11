@@ -71,4 +71,4 @@ Contact:
 --------
 
 .. image:: images/parlerlogo.png
-    :target:https://parler.com/shawndriscoll
+    :target: https://parler.com/shawndriscoll
