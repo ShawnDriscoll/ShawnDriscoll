@@ -66,3 +66,9 @@ Some Hobbies:
   * OBS
 
   * Bandicam
+
+Contact:
+--------
+
+.. image:: images/parlerlogo.png
+    :target:https://parler.com/shawndriscoll
