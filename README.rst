@@ -41,11 +41,11 @@ Some Hobbies:
 
 * Huge fan of role-play gaming
 
-  * Skyrim
+  * Skyrim 2011
 
   * Mongoose Traveller 2016
 
-  * Total Party Skills RPG
+  * Total Party Skills RPG 2022
 
 * Classic 3D modeling
 
@@ -58,7 +58,7 @@ Some Hobbies:
   * modo 601
 
   * Poser 6
-  
+
 * Video Editing
 
   * Vegas Pro
@@ -66,6 +66,14 @@ Some Hobbies:
   * OBS
 
   * Bandicam
+
+* Writing and Publishing
+
+  * Notepad++
+
+  * Sphinx
+
+  * Scrivener
 
 Contact:
 --------
