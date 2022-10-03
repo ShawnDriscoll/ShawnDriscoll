@@ -39,7 +39,7 @@ Some Programming Languages:
 Some Hobbies:
 -------------
 
-* Huge fan of role-play gaming
+* Huge fan of roleplay gaming
 
   * Skyrim 2011
 
