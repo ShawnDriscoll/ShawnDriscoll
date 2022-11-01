@@ -74,9 +74,3 @@ Some Hobbies:
   * Sphinx
 
   * Scrivener
-
-Contact:
---------
-
-.. image:: images/parlerlogo.png
-    :target: https://parler.com/shawndriscoll
