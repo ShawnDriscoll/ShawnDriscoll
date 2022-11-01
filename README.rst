@@ -46,6 +46,8 @@ Some Hobbies:
   * Mongoose Traveller 2016
 
   * Total Party Skills RPG 2022
+  
+  * CORE Micro v3.0
 
 * Classic 3D modeling
 
