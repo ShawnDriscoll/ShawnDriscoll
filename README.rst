@@ -43,11 +43,11 @@ Some Hobbies:
 
   * Skyrim 2011
 
-  * Mongoose Traveller 2016
+  * Mongoose Traveller RPG 2016
 
   * Total Party Skills RPG 2022
   
-  * CORE Micro v3.0
+  * CORE Micro Edition RPG 2022
 
 * Classic 3D modeling
 
@@ -70,6 +70,8 @@ Some Hobbies:
   * Bandicam
 
 * Writing and Publishing
+
+  * Visual Studio Code
 
   * Notepad++
 
