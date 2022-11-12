@@ -39,7 +39,9 @@ Some Programming Languages:
 Some Hobbies:
 -------------
 
-* Huge fan of roleplay gaming
+* Huge Fan of Roleplay Gaming
+
+  * How to Roleplay the HARD Way 2022
 
   * Skyrim 2011
 
@@ -49,7 +51,7 @@ Some Hobbies:
   
   * CORE Micro Edition RPG 2022
 
-* Classic 3D modeling
+* Classic 3D Modeling and Rendering
 
   * Hexagon 1.21
 
@@ -61,7 +63,7 @@ Some Hobbies:
 
   * Poser 6
 
-* Video Editing
+* Video Recording and Editing
 
   * Vegas Pro
 
