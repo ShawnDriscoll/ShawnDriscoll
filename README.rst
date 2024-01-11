@@ -41,7 +41,7 @@ Some Hobbies:
 
 * Huge Fan of Roleplay Gaming
 
-  * How to Roleplay the HARD Way 2022
+  * How to Roleplay the HARD Way 2023
 
   * Skyrim 2011
 
@@ -55,13 +55,15 @@ Some Hobbies:
 
   * Hexagon 1.21
 
-  * 3D-Coat 2022
+  * Poser 6
 
-  * Vue 9.5 Infinite
+  * Carrara 5.1 Pro
+
+  * Amapi 7.51 Pro
+
+  * 3D-Coat 2023
 
   * modo 601
-
-  * Poser 6
 
 * Video Recording and Editing
 
@@ -70,6 +72,8 @@ Some Hobbies:
   * OBS
 
   * Bandicam
+
+  * Streamyard
 
 * Writing and Publishing
 
