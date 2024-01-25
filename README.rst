@@ -41,7 +41,7 @@ Some Hobbies:
 
 * Huge Fan of Roleplay Gaming
 
-  * How to Roleplay the HARD Way 2023
+  * How to Roleplay the HARD Way 2024
 
   * Skyrim 2011
 
@@ -61,7 +61,7 @@ Some Hobbies:
 
   * Amapi 7.51 Pro
 
-  * 3D-Coat 2023
+  * 3D-Coat 2024
 
   * modo 601
 
